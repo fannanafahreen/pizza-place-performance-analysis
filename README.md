@@ -34,7 +34,7 @@ Full funnel analysis of a pizza restaurant's 2015 sales data (48,620 line items)
 
 ## Methodology
 1. Built a star schema in MySQL — `dim_pizza`, `dim_date`, `fact_sales`
-2. Connected via ODBC to Power BI (native MySQL connector had driver issues — documented fix in `/sql`)
+2. Connected via ODBC to Power BI (native MySQL connector had driver issues documented fix in `/sql`)
 3. Built DAX measures for Revenue, AOV, Orders, and category-level Pareto analysis
 4. Exploded ingredient data via Power Query for menu complexity analysis
 
