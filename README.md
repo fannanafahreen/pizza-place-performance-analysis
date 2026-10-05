@@ -72,4 +72,4 @@ This dataset supports menu-mix and demand analysis well, but has real boundaries
 
 ## Contact
 
-Fannana Fahreen Aanan — [https://www.linkedin.com/in/fannana-fahreen/] · [fannanafahreen@gmail.com]
+Fannana Fahreen Aanan — [GitHub](https://github.com/fannanafahreen) . [Linkdin](https://www.linkedin.com/in/fannana-fahreen/) · [Gmail](fannanafahreen@gmail.com)
