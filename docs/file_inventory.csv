@@ -1,0 +1,6 @@
+﻿File name,Folder Name,Size,Rows,Columns,Header,One row means,My ID Guess,Points to another file?
+order_details,pizza_sales,1278 KB,48620,4,"order_details_id, order_id, pizza_id, quantity",One pizza line on an order,order_details_id,Yes
+orders,pizza_sales,553 KB,21350,3,"order_id, date, time",One order ,order_id,No
+pizza_types,pizza_sales,4 KB,32,4,"pizza_type_id, name, category, ingredients ",One pizza recipe,pizza_type_id,No
+pizzas,pizza_sales,4 KB,96,4,"pizza_id, pizza_type_id, size, price ",One pizza,pizza_id,Yes
+data_dictionary.csv,pizza_sales,2 KB,15,3,"Table,Field, Description",One column,Field,No
